@@ -1,4 +1,4 @@
-declare module '@hijef/pushbullet' {
+declare module 'pushbullet' {
 	export type DeviceParams = string | number | Record<string, any>;
 
 	export type PushBulletCallback = ((error: Error) => void) | ((error?: null, response: any) => void);

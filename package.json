@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/jef/nvidia-snatcher#readme",
   "dependencies": {
-    "@hijef/pushbullet": "^2.4.2",
     "@slack/web-api": "^5.12.0",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
@@ -53,6 +52,7 @@
     "@types/twitter": "^1.7.0",
     "husky": "^4.3.0",
     "nodemon": "^2.0.5",
+    "pushbullet": "^2.4.0",
     "rimraf": "^3.0.2",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2",
